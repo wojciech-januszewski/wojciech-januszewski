@@ -21,9 +21,4 @@ Currently the sole IT & security engineer at an AI scale-up, owning everything f
 
 Jamf 200 / 300 / 370 · Google Workspace Administrator · Google Workspace Security · Google Professional Cloud Security Engineer · CompTIA Security+
 
-### Community
-
-- Speaker at **MacAdmins Polska** (AI agents in MacAdmin work)
-- Security incident write-ups for **Sekurak**
-
 📫 [LinkedIn]https://www.linkedin.com/in/wojciech-januszewski-1b61a088/
